@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int jail(int t[])
 {
     int back = 9;
@@ -14,6 +12,8 @@ int jail(int t[])
             break;
         while(t[front] == 10)
             front++;
+        if(front > back)
+            break;
         
         t[back]--;
         t[front]++;
