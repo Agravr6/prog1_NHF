@@ -1,4 +1,4 @@
-/* Varga Csaba - K04JA8 - 2021 - A programozás alapjai 1 - Nagy házi feladat
+/* Varga Csaba - K0**** - 2021 - A programozás alapjai 1 - Nagy házi feladat
 A program a paraméterlistán megkapott fájlokból beolvassa az adatokat és eltárolja egy fésűs listában. Ezután kiírja a standard outputra az ügyfelek 
 számát és az eloszlásukat a biztosítási csomagok között. Végül optimalizálja a biztosítási csomagok árait és  kiírja a 
 standard outputra, telefononként csoportosítva, az ügyfelek nevét (abc sorrendben) és az ő általuk választott telefon és biztosítási csomag árát (összeadva).*/
